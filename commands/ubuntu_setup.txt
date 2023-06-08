@@ -18,7 +18,18 @@ COMMANDS
 	- Change Capslock to Escape
 
 4 - [Install NVIM]
-	- For setup, use rial: https://www.youtube.com/watch?v=J9yqSdvAKXY
+
+	- Install pre-requisites:
+		sudo apt-get install ninja-build gettext cmake unzip curl
+	- Install a newer NVIM version for plugins:
+		sudo apt-get install software-properties-common
+		sudo add-apt-repository ppa:neovim-ppa/unstable
+		sudo apt-get update
+		sudo apt-get install neovim
+		
+	- Install cc1plus:
+		sudo apt-get install g++
+	- For setup, use tutorial: https://www.youtube.com/watch?v=J9yqSdvAKXY
 
 
 
