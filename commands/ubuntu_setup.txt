@@ -30,8 +30,4 @@ COMMANDS
 	- Install cc1plus:
 		sudo apt-get install g++
 	- For setup, use tutorial: https://www.youtube.com/watch?v=J9yqSdvAKXY
-
-
-
-
     
